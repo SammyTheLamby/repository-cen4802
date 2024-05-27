@@ -14,3 +14,6 @@ public class Bucket {
         System.out.println("The " + n + "th term of the Fibonacci sequence is " + result + ".");
     }
 }
+
+/** This code needs better explanations, it is too difficult to read and understand
+*/
